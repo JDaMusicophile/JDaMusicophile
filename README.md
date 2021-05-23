@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JDaMusicophile 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m JDaMusicophile (Josh)
 
 - 👀 I’m a student, enthusiatic entreprenuer and  developer.
 - 🌱 I’m currently learning web development and game development .
