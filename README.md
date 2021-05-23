@@ -33,6 +33,9 @@
 <img src="https://www.ventuz.com/wp-content/uploads/2020/12/UnrealEngine-logos.png" width="25px"/> &nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-64/aws-1869025-1583149.png" width="25px" /> &nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDaMusicophile&layout=compact)](https://github.com/JDamusicophile/github-readme-stats)
+
+
 <!---
 JDaMusicophile/JDaMusicophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
